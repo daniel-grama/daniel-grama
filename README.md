@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**daniel-grama/daniel-grama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Daniel Grama
 
-Here are some ideas to get you started:
+Cyber Security student focused on SOC analysis, network traffic investigation, and log analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+Currently building hands-on skills in:
+
+Network traffic analysis (Wireshark)
+
+Windows Event Log investigation
+
+Linux fundamentals
+
+TCP/IP and core networking concepts
+
+Incident response basics
+
+Transitioning into cybersecurity with a focus on entry-level SOC Analyst roles in the UK.
+
+Current Focus
+
+Completing SOC-oriented labs
+
+Building documented lab investigations
+
+Developing practical threat detection skills
