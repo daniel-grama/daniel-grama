@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Daniel Grama
 
 Cyber Security student focused on SOC analysis, network traffic investigation, and log analysis.
